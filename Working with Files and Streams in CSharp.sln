@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcesor", "DataProcesor\DataProcesor.csproj", "{D6D72665-12D4-466D-8ACD-21352E59E094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProcessor.Tests", "DataProcessor.Tests\DataProcessor.Tests.csproj", "{7EF9B4BD-39C7-42ED-8951-9725181F9F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D72665-12D4-466D-8ACD-21352E59E094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D72665-12D4-466D-8ACD-21352E59E094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D72665-12D4-466D-8ACD-21352E59E094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D72665-12D4-466D-8ACD-21352E59E094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF9B4BD-39C7-42ED-8951-9725181F9F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF9B4BD-39C7-42ED-8951-9725181F9F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF9B4BD-39C7-42ED-8951-9725181F9F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF9B4BD-39C7-42ED-8951-9725181F9F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFA55DB2-BE65-49D6-82DA-1620A4A7E0B2}
+	EndGlobalSection
+EndGlobal

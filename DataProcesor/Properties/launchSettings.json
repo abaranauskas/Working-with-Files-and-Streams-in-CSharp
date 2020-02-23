@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcesor": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\aidas\\source\\repos\\Working with Files and Streams in CSharp\\psdata\\in\""
+    }
+  }
+}
